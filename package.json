@@ -1,0 +1,9 @@
+{
+  "name": "climax-cli",
+  "version": "0.0.0",
+  "description": "Climax CLI to generate and develop Climax applications.",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
