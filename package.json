@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Climax CLI to generate, build and release Climax applications.",
   "license": "MIT",
+  "dependencies": {
+    "npx": "^10.2.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
