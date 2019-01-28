@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "nexe": "^2.0.0-rc.34",
-    "rollup": "^0.67.0"
+    "rollup": "^1.1.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
