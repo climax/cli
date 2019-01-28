@@ -5,7 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "nexe": "^2.0.0-rc.34",
-    "npx": "^10.2.0",
     "rollup": "^0.67.0"
   },
   "scripts": {
