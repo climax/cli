@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Climax CLI to generate, build and release Climax applications.",
   "license": "MIT",
+  "bin": {
+    "climax": "./bin/climax.js"
+  },
   "dependencies": {
     "nexe": "^2.0.0-rc.34",
     "rollup": "^1.1.2"
