@@ -1,15 +1,26 @@
-# [Climax](https://climaxjs.com) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/climaxjs/climax/blob/master/LICENSE) [![Build Status](https://img.shields.io/travis/climaxjs/climax.svg?style=flat-square)](https://travis-ci.org/climaxjs/climax) [![Coverage Status](https://img.shields.io/coveralls/github/climaxjs/climax.svg?style=flat-square)](https://coveralls.io/github/climaxjs/climax) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-airbnb-brightgreen.svg?style=flat-square)](https://github.com/airbnb/javascript#airbnb-javascript-style-guide-)
+# [Climax CLI][link-website] &middot; [![License][img-license]][link-license] <!-- [![npm version][img-npm]][link-npm] --> [![Build Status][img-travis]][link-travis] [![Coverage Status][img-coveralls]][link-coveralls] [![JavaScript Style Guide][img-styleguide]][link-styleguide]
 
 Climax CLI makes the development of Climax CLI applications a damn easy task. If you're new to Climax, you can think Climax as the "Electron for CLI applications".
 
-For more information, please [check the main Climax repository](https://github.com/climaxjs/climax#readme).
+For more information, please [check the main Climax repository](https://github.com/climax/core#readme).
 
-## Roadmap
+## Current Work Progress
 
-![Work in progress](doc/res/work-in-progress-225.png)
-
-Please check [the global roadmap on the main Climax repository](https://github.com/climaxjs/climax#roadmap).
+Please check [the global roadmap on the main Climax repository](https://github.com/climax/core#current-work-progress).
 
 ### License
 
 React is [MIT licensed](./LICENSE).
+
+[img-coveralls]: https://img.shields.io/coveralls/github/climax/cli/master.svg?style=flat-square
+[img-license]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
+[img-npm]: https://img.shields.io/npm/v/climax.svg?style=flat-square
+[img-styleguide]: https://img.shields.io/badge/code_style-airbnb-brightgreen.svg?style=flat-square
+[img-travis]: https://img.shields.io/travis/climax/cli/master.svg?style=flat-square
+[link-cli]: https://github.com/climax/cli
+[link-coveralls]: https://coveralls.io/github/climax/cli
+[link-license]: https://github.com/climax/climax/blob/master/LICENSE
+[link-npm]: https://www.npmjs.com/package/climax
+[link-styleguide]: https://github.com/airbnb/javascript#airbnb-javascript-style-guide-
+[link-travis]: https://travis-ci.org/climax/cli
+[link-website]: https://climaxjs.com
