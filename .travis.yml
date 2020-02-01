@@ -15,7 +15,7 @@ cache:
     - node_modules
 
 before_script:
-  - yarn link
+  - npm link
 script:
   - climax new app
 
