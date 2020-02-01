@@ -1,0 +1,30 @@
+language: node_js
+
+node_js:
+  - "10"
+  - "12"
+
+os:
+  - linux
+  - osx
+  - windows
+
+cache:
+  yarn: true
+  directories:
+    - node_modules
+
+before_script:
+  - yarn link
+script:
+  - climax new
+
+notifications:
+  webhooks:
+    urls:
+      - https://webhooks.gitter.im/e/f6c7fbd99c6425464bbc
+    on_cancel: change
+    on_error: always
+    on_failure: always
+    on_start: change
+    on_success: change
