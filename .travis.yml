@@ -17,7 +17,7 @@ cache:
 before_script:
   - yarn link
 script:
-  - climax new
+  - climax new app
 
 notifications:
   webhooks:
