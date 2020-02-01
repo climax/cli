@@ -7,8 +7,8 @@
     "climax": "./bin/climax.js"
   },
   "dependencies": {
-    "nexe": "^2.0.0-rc.34",
-    "rollup": "^1.1.2"
+    "nexe": "3.3.2",
+    "rollup": "^1.31.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
