@@ -33,6 +33,11 @@ before_script:
 script:
   - climax new app
 
+branches:
+  only:
+    - develop
+    - master
+
 notifications:
   webhooks:
     urls:
