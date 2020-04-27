@@ -8,11 +8,11 @@
   },
   "dependencies": {
     "@climax/core": "0.1.0-beta.0",
-    "make-dir": "3.0.2",
+    "make-dir": "3.1.0",
     "nexe": "3.3.2"
   },
   "devDependencies": {
-    "rollup": "2.6.1"
+    "rollup": "2.7.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
