@@ -12,7 +12,7 @@
     "nexe": "3.3.7"
   },
   "devDependencies": {
-    "rollup": "2.26.10"
+    "rollup": "2.26.11"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
